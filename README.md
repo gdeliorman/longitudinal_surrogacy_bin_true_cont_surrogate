@@ -1,0 +1,1 @@
+ We extend Individual Causal Association (ICA) framework to a longitudinal setting with a continuous surrogate and a binary true endpoint. We employ the joint model in a full Bayesian framework using Markov chain Monte Carlo methods implemented in R through MCMCglmm. 
